@@ -1,0 +1,67 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "name": "aavesham",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Aavesham.jpg/220px-Aavesham.jpg",
+      "link": "https://www.youtube.com/embed/JpnOtNkmRBU"
+    }
+  ],
+  "history": [
+    {
+      "name": "aavesg",
+      "link": " ",
+      "timeStamp": "08/27/2024, 06:47:19 PM",
+      "id": 1
+    },
+    {
+      "name": "aavesham",
+      "link": "https://www.youtube.com/embed/L0yEMl8PXnw",
+      "timeStamp": "08/27/2024, 06:49:39 PM",
+      "id": 2
+    },
+    {
+      "name": "Mayavanam Movie",
+      "link": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "timeStamp": "08/27/2024, 07:04:40 PM",
+      "id": 3
+    },
+    {
+      "name": "Mayavanam Movie",
+      "link": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "timeStamp": "08/27/2024, 07:05:22 PM",
+      "id": 4
+    },
+    {
+      "name": "aavesham",
+      "link": "https://www.youtube.com/embed/L0yEMl8PXnw",
+      "timeStamp": "08/28/2024, 02:19:20 PM",
+      "id": 5
+    },
+    {
+      "name": "aavesham",
+      "link": "https://www.youtube.com/embed/JpnOtNkmRBU",
+      "timeStamp": "08/28/2024, 02:20:55 PM",
+      "id": 6
+    },
+    {
+      "name": "aavesham",
+      "link": "https://www.youtube.com/embed/JpnOtNkmRBU",
+      "timeStamp": "08/28/2024, 02:20:57 PM",
+      "id": 7
+    },
+    {
+      "name": "aavesham",
+      "link": "https://www.youtube.com/embed/JpnOtNkmRBU",
+      "timeStamp": "08/28/2024, 03:18:37 PM",
+      "id": 8
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "movie",
+      "allVideos": []
+    }
+  ]
+}
